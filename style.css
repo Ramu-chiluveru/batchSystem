@@ -793,11 +793,16 @@ hr{
 
   .footer{
     gap: 10px !important;
+    width: 100vw !important;
+  }
+
+  h3{
+    font-size: 20px !important;
   }
 
   .footer-contents{
     width: 100% !important;
-    justify-content: space-between !important;
+    gap: 20px;
   }
 
   .footer p,.footer h1,.footer h2,.footer h3,.footer a{
@@ -806,6 +811,7 @@ hr{
   .footer svg{
     width: 20px !important;
   }
+
 
 }
 
@@ -841,6 +847,11 @@ hr{
 
   .star1{
     top: 10vh;
+  }
+
+  .footer{
+    gap: 10px !important;
+    width: 100vw !important;
   }
 
   .star2,.star3,.star4,.star5,.star6{
@@ -924,6 +935,11 @@ hr{
     padding: 20px !important;
   }
 
+  h3{
+    font-size: 20px !important;
+  }
+
+
   .banner{
     padding: 20px !important;
   }
@@ -949,6 +965,11 @@ hr{
 
   .footer{
     gap: 10px !important;
+  }
+
+  .footer-contents{
+    width: 100% !important;
+    gap: 20px;
   }
 
 }
